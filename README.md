@@ -5,4 +5,4 @@ lmwdi
 
 git clone https://github.com/lmwdi/Folder-sorting
 
-python Folder sorting.py
+  python Folder sorting.py
