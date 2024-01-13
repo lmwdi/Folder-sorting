@@ -3,6 +3,3 @@ When you run this code, it creates a folder for each type of file and transfers 
 
 lmwdi
 
-git clone https://github.com/lmwdi/Folder-sorting
-
-  python Folder sorting.py
